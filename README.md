@@ -134,8 +134,8 @@ o	Y1
 •	Verify that Y0 = D and Y1 = 0 whenever S = 0, and Y1 = D and Y0 = 0 whenever S = 1.
 •	Confirm that Y0 and Y1 are never both high at the same time, since only one output is active per select value.
 The waveform should agree with the truth table.
-<img width="1897" height="1016" alt="Screenshot 2026-10-22 145834" src="https://github.com/user-attachments/assets/41fb3697-07e0-4ef6-88fa-c4bcb1c51c1b" />
-<img width="1848" height="970" alt="Screenshot 2026-10-22 145859" src="https://github.com/user-attachments/assets/7598c314-ff8e-4027-86db-5aea5fbb7e3f" />
+<img width="1917" height="1046" alt="Screenshot 2026-10-22 153654" src="https://github.com/user-attachments/assets/b31a1e7d-f298-4fe2-916c-2a1be2735188" />
+<img width="1911" height="1031" alt="Screenshot 2026-10-22 153550" src="https://github.com/user-attachments/assets/2da30197-560d-4245-84c6-94150820ba6f" />
 
 
 ## Expected Result
